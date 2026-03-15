@@ -1,5 +1,5 @@
 # Unix Course Final Assignment
->Author - Zuzana Sevcovicova
+**Author**: [Zuzana Sevcovicova](https://github.com/Sevcoviz)
 
 ## Data preprocessing
 - Extracting data from VCF `luscinia_vars_flags.vcf.gz` run `workflow.sh` script 
@@ -131,4 +131,4 @@ The results showed that the distribution of PHRED quality and read depth scores 
 
 
 ### Authors notes
-For this project I used LLMs with the analysis - Claude and Copilot builted in RStudio and VSCode. I used it to elevate my plots and to rewrite my language to be gramtically correct and more concise. 
+For this project I used LLMs to help me with the analysis - Claude and Copilot builted in RStudio and VSCode. I used them to elevate my plots and to rewrite my language to be grammatically correct and more concise. 
