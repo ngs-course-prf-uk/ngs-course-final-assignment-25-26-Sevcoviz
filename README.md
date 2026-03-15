@@ -31,7 +31,7 @@ Data were filtered based on the following criteria:
 
 
 <figure style="text-align: center;">
-  <img src="01_0_filters.png" alt="Filters" width="1000" />
+  <img src="results/01_0_filters.png" alt="Filters" width="1000" />
   <figcaption>
     <em><b>Figure 1:</b> Filters (red) applied to the dataset, left (read depth) and right (PHRED quality) show the distribution of quality metrics  genome-wide</em>
   </figcaption>
